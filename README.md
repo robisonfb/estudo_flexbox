@@ -1,2 +1,2 @@
-# estudo-flexbox
+# Estudos FlexBox
 Estudo relacionado a Flexbox 
